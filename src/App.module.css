@@ -1,0 +1,34 @@
+
+body {
+    margin: 0;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: lightgray;
+}
+
+.inputs {
+    align-self: center;
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: auto;
+}
+
+.input-item {
+    align-self: baseline;
+}
+
+.timer {
+    align-self: center;
+    margin-bottom: auto;
+    font-size: 4rem;
+}
