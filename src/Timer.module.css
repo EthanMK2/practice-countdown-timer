@@ -1,4 +1,3 @@
-
 body {
     margin: 0;
 }
@@ -26,4 +25,11 @@ body {
 .input-item {
     align-self: baseline;
     margin: 1rem;
+}
+
+
+.timer {
+    align-self: center;
+    margin-bottom: auto;
+    font-size: 4rem;
 }
